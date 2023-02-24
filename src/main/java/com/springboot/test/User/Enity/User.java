@@ -11,8 +11,32 @@ public class User {
     private Integer userid;
 
     @Column(name = "account")
-    private Integer account;
+    private String account;
 
     @Column(name="password")
-    private Integer password;
+    private String password;
+
+    public Integer getUserid() {
+        return userid;
+    }
+
+    public void setUserid(Integer userid) {
+        this.userid = userid;
+    }
+
+    public String getAccount() {
+        return account;
+    }
+
+    public void setAccount(String account) {
+        this.account = account;
+    }
+
+    public String getPassword() {
+        return password;
+    }
+
+    public void setPassword(String password) {
+        this.password = password;
+    }
 }

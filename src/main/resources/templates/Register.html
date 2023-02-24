@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+    <meta charset="UTF-8">
+    <title>Register</title>
+    <link href="/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="/dist/css/carousel.css" rel="stylesheet" />
+    <link href="/dist/css/my.css" rel="stylesheet" />
+</head>
+<body>
+
+<div class="container">
+    <h1>會員註冊</h1>
+    <form action="/User/add" method="post">
+        <div class="mb-3">
+            <label for="account" class="form-label">UserName</label>
+            <input type="text" class="form-control" id="account" name="account" >
+        </div>
+        <div class="mb-3">
+            <label for="password" class="form-label">Password</label>
+            <input type="text" class="form-control" id="password" name="password" >
+        </div>
+        <input type="submit">
+    </form>
+</div>
+</body>
+</html>
