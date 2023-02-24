@@ -10,7 +10,7 @@ Register.html
 <img width="1381" alt="截圖 2023-02-24 下午9 24 28" src="https://user-images.githubusercontent.com/121842365/221192106-5aebd836-c6d2-4c7a-8370-6f835f4b2c62.png">
 
 
-後端錯誤處理使用jjakarta.validation.constraints API 
+後端錯誤處理使用jakarta.validation.constraints API 
 
 
 <img width="231" alt="截圖 2023-02-24 下午11 23 36" src="https://user-images.githubusercontent.com/121842365/221217582-53356047-205c-4dfa-b03b-9e456b832ed4.png">
