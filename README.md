@@ -18,4 +18,6 @@ Register.html
 <img width="539" alt="截圖 2023-02-24 下午11 23 49" src="https://user-images.githubusercontent.com/121842365/221217592-e8e2fbf6-4ba8-4842-86bb-d0a81d7283bf.png">
 
 
+前端使用者輸入表單值為空 
+
 <img width="278" alt="截圖 2023-02-24 下午11 23 58" src="https://user-images.githubusercontent.com/121842365/221217595-cdd9bb1e-0fe6-4ba7-a71a-ea3872154edb.png">
